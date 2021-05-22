@@ -26,8 +26,8 @@ void Funcao(int *y, int*num){
     cout << num[x]<< ", ";
   }
   cout << endl;
-  cout << "O maior valor eh: " << *max <<endl;
-  cout << "O menor valor eh: " << *min <<endl;
+  cout << "O máximo eh: " << *max <<endl;
+  cout << "O minimo eh: " << *min <<endl;
 }
 
 
