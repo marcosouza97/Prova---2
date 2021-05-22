@@ -2,7 +2,7 @@
 
 using namespace std;
 
-//Função que recebe o vetor como ponteiro
+//Função que recebe o vetor como ponteiro.
 void Funcao(int *y, int*num){
 
   //Criação de duas variaveis para maximo e minimo como ponteiro
